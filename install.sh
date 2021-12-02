@@ -19,7 +19,6 @@ sudo wget https://github.com/raspberrypi/firmware/raw/master/opt/vc/lib/libmmal_
 sudo wget https://github.com/raspberrypi/firmware/raw/master/opt/vc/lib/libmmal_components.so -P /usr/lib
 sudo wget https://github.com/raspberrypi/firmware/raw/master/opt/vc/lib/libmmal_util.so -P /usr/lib
 sudo wget https://github.com/raspberrypi/firmware/raw/master/opt/vc/lib/libmmal_vc_client.so -P /usr/lib
-sudo wget https://github.com/raspberrypi/firmware/raw/master/opt/vc/lib/libchiq_arm.so -P /usr/lib
 sudo wget https://github.com/raspberrypi/firmware/raw/master/opt/vc/lib/libvchiq_arm.so -P /usr/lib
 sudo wget https://github.com/raspberrypi/firmware/raw/master/opt/vc/lib/libvcsm.so -P /usr/lib
 sudo wget https://github.com/raspberrypi/firmware/raw/master/opt/vc/lib/libcontainers.so -P /usr/lib

@@ -8,5 +8,6 @@ alsa-utils cups-pk-helper gir1.2-polkit-1.0 gtk2-engines-pixbuf libasound2 libas
 - WARNING: this is a very unstable version and it is unrecommended to run these commands anyway...
 
 CREDITS:
-https://raspberrypi.stackexchange.com/questions/121199/realvnc-server-on-ubuntu-20-10-arm64-on-raspberry-pi-4
-https://raspberrypi.stackexchange.com/questions/111728/how-to-get-raspi-config-on-ubuntu-20-04
+- https://raspberrypi.stackexchange.com/questions/121199/realvnc-server-on-ubuntu-20-10-arm64-on-raspberry-pi-4
+- https://raspberrypi.stackexchange.com/questions/111728/how-to-get-raspi-config-on-ubuntu-20-04
+- Raspberry Pi OS Authors

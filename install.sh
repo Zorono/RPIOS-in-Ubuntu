@@ -1,4 +1,4 @@
-echo "deb https://archive.raspberrypi.org/debian/ bullseye main" | sudo tee -a -
+echo "deb https://archive.raspberrypi.org/debian/ bullseye main" | sudo tee -a /etc/apt/sources.list
 wget -q -O - https://archive.raspberrypi.org/debian/raspberrypi.gpg.key  | sudo apt-key add -
 sudo apt-get update
 
